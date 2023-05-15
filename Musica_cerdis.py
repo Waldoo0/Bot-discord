@@ -62,6 +62,6 @@ async def play(ctx, url):
 
 
 
-TOKEN = 'MTEwNTEyMjg0NTY4NTcxNDk3Ng.G3HLkB.WD9ecToDdV4tudcHfnB240vNLjGYbdn8HOMCx0'
+TOKEN = '*****'
 
 bot.run(TOKEN)
